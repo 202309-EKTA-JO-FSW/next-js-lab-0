@@ -17,6 +17,6 @@ You have seen how amazing React and Next.JS are and saw what I did in the code a
 ## How to run the app
 
 ```bash
-yarn
+npm install
 yarn dev
 ```
